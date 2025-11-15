@@ -1,0 +1,1 @@
+This repo consists of all my GenAI projects and learnings!
