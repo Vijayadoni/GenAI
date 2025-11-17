@@ -1,0 +1,30 @@
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Misc
+.DS_Store
+*.sqlite3
+coverage/
+.pytest_cache/
+node_modules/
